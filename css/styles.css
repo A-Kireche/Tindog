@@ -181,7 +181,7 @@ p{
     text-align: center;
  }
 
- .rotate{
+ .title-img{
     position: static;
     transform: rotate(0);
  }
