@@ -178,11 +178,12 @@ p{
 
 @media (max-width: 1028px ) {
 
- #title .container-fluid {
+ #title .container-fluid{
     text-align: center ;
  }
 
  .title-img{
+    
     position: static;
     transform: rotate(0);
  }
